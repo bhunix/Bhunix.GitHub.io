@@ -4,8 +4,8 @@ markdown: kramdown
 permalink: /:year/:month/:day/:title.html
 name: "rusty shutter"
 
-author: "wayne"
-atom-baseurl: "http://lhzhang.com"
+author: "bhunix"
+atom-baseurl: "bhunix.github.com"
 disqus: "gopherwood"
 
 navigations:
@@ -20,7 +20,7 @@ navigations:
     href: /about.html
   - title: Gallery
     class: fa fa-film
-    href: http://foto.lhzhang.com
+    href: bhunix.github.com
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
