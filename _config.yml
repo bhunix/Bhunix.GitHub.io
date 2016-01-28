@@ -15,9 +15,6 @@ navigations:
   - title: About
     class: fa fa-user
     href: /about.html
-  - title: Gallery
-    class: fa fa-film
-    href: bhunix.github.com
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
