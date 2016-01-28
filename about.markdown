@@ -3,20 +3,15 @@ title: about
 layout: page
 ---
 
-a
+Me
 
-> Minimalist | Appleist | Unixer | Coder
+> Unixer | Coder | Guitar
 
-who involved in 
+Github
 
-> [github](https://github.com/waynezhang)
+> [github](https://github.com/bhunix)
 
-mail 
+Email 
 
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
+> bhunix@gmail.com
 
-or follow 
-
-> [@o_lll](https://twitter.com/#!/o_lll)
-
-to reach me
